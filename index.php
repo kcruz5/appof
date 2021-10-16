@@ -33,7 +33,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-7 col-lg-5">
-                            <h2>Sistema de Inventario Outlet Fitness</h2>
+                            <h2>Sistema de Inventario Outlet Fitness 1</h2>
                             <p class="lead">
                                 Por favor ingresa tus credenciales para continuar.
                             </p>
