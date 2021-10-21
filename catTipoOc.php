@@ -66,7 +66,7 @@
     }
 }
 ?>
-<!DOCTYPE html>
+<!DOCTYPE html> <!--Diseño-->
 <html>
 
   <head> 
