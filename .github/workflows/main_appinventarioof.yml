@@ -58,3 +58,8 @@ jobs:
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_713A09236D1D4756BEB189708E606796 }}
           package: .
+
+      - name: Login to Azure
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_713A09236D1D4756BEB189708E606796 }}
