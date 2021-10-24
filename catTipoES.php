@@ -66,7 +66,7 @@
     }       
 }
 ?>
-<!DOCTYPE html>
+<!DOCTYPE html><!--Codigo para Diseño de menu-->
 <html>
 
   <head> 
